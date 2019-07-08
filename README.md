@@ -19,3 +19,4 @@ To wire the PIR sensor:
 VCC to 5v on the Pi
 GND to GND
 Signal Pin to GPIO 18
+
