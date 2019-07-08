@@ -11,8 +11,8 @@ defaults.pcm.card 0
 Change both “0” to “1” and then save the file. 
 
 Pre-requisites:
-sudo apt-get install python-pip
-sudo pip install gpiozero
+sudo apt-get install python-pip, 
+sudo pip install gpiozero, 
 sudo apt-get install python-pygame
 
 To wire the PIR sensor:
